@@ -2,7 +2,7 @@
   "log": {
     "loglevel": "warning",
     "error": "/var/log/xray/error1.log",
-    "access": "/var/log/xray/access.log"
+    "access": "/var/log/xray/access1.log"
    },
    "api": {
     "services": [
